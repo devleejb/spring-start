@@ -9,7 +9,7 @@
 ## Contents
 1. 섹션 0. 강의 소개
 2. [섹션 1. 프로젝트 환경설정](https://distinct-bulb-c95.notion.site/1-643b04ad78214d479f5c8759007e5a50)
-3. 섹션 2. 스프링 웹 개발 기초
+3. [섹션 2. 스프링 웹 개발 기초](https://distinct-bulb-c95.notion.site/2-3380baa31f6e40179afdcb8a1944eec1)
 4. 섹션 3. 회원 관리 예제 - 백엔드 개발
 5. 섹션 4. 스프링 빈과 의존관계
 6. 섹션 5. 회원 관리 예제 - 웹 MVC 개발
