@@ -1,6 +1,7 @@
 package devleejb.springstart.repository;
 
 import devleejb.springstart.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.List;
 import java.util.Optional;
