@@ -13,6 +13,6 @@
 4. [섹션 3. 회원 관리 예제 - 백엔드 개발](https://distinct-bulb-c95.notion.site/3-d260e5a00b0741efa6ebea986411c903)
 5. [섹션 4. 스프링 빈과 의존관계](https://distinct-bulb-c95.notion.site/4-6b909e5cb28d4089a951e3753a3f4148)
 6. [섹션 5. 회원 관리 예제 - 웹 MVC 개발](https://distinct-bulb-c95.notion.site/5-MVC-3106c7fc5d6048e1b54e25dd5789ce2a)
-7. 섹션 6. 스프링 DB 접근 기술
+7. [섹션 6. 스프링 DB 접근 기술](https://distinct-bulb-c95.notion.site/6-DB-3e28c2026034417f8b948a6e82c14d74)
 8. 섹션 7. AOP
 9. 섹션 8. 다음으로
