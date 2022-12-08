@@ -1,6 +1,7 @@
 package devleejb.springstart;
 
 import devleejb.springstart.repository.JdbcMemberRepository;
+import devleejb.springstart.repository.JdbcTemplateMemberRepository;
 import devleejb.springstart.repository.MemberRepository;
 import devleejb.springstart.service.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -26,6 +27,6 @@ public class SpringConfig {
 
     @Bean
     public MemberRepository memberRepository() {
-        return new JdbcMemberRepository(dataSource);
+        return new JdbcTemplateMemberRepository(dataSource);
     }
 }
