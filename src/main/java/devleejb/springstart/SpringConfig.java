@@ -1,5 +1,6 @@
 package devleejb.springstart;
 
+import devleejb.springstart.aop.TimeTraceAop;
 import devleejb.springstart.repository.JdbcMemberRepository;
 import devleejb.springstart.repository.JdbcTemplateMemberRepository;
 import devleejb.springstart.repository.JpaMemberRepository;
@@ -24,5 +25,10 @@ public class SpringConfig {
     @Bean
     public MemberService memberService() {
         return new MemberService(memberRepository);
+    }
+
+    @Bean
+    public TimeTraceAop timeTraceAop() {
+        return new TimeTraceAop();
     }
 }
