@@ -15,4 +15,4 @@
 6. [섹션 5. 회원 관리 예제 - 웹 MVC 개발](https://distinct-bulb-c95.notion.site/5-MVC-3106c7fc5d6048e1b54e25dd5789ce2a)
 7. [섹션 6. 스프링 DB 접근 기술](https://distinct-bulb-c95.notion.site/6-DB-3e28c2026034417f8b948a6e82c14d74)
 8. [섹션 7. AOP](https://distinct-bulb-c95.notion.site/7-AOP-196614c5e2264bd9a6dd6727a9836b2d)
-9. 섹션 8. 다음으로
+9. [섹션 8. 다음으로](https://distinct-bulb-c95.notion.site/8-1105a1639ac84994b0edc8a168417624)
